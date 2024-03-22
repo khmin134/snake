@@ -1,5 +1,3 @@
-#define __APPLE__
-
 #ifdef _WIN32
 #include <Windows.h>
 #include <conio.h>
